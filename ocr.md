@@ -1,0 +1,13 @@
+---
+title: "ocr"
+id: "ab5ef9ba-85d0-4814-bfdb-3f03c08ad088"
+date: "2023-01-31 Tue 16:11"
+---
+
+how chainlink ocr works
+
+# Pacemaker
+
+# Report generation
+
+# Transmission

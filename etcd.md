@@ -1,0 +1,15 @@
+---
+title: "etcd"
+date: 2023-01-25
+---
+
+# How to access ectd directly
+
+```bash
+ssh 103.43.87.120
+cd /etc/etcd/ssh
+export ETCDCTL_API=3
+etcdctl  --cert etcd.pem --key etcd-key.pem --cacert etcd-ca.pem  --endpoints "https://127.0.0.1:2379" get /registry/configmaps/default/recsys-data
+```
+
+# Finish

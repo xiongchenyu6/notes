@@ -1,0 +1,19 @@
+# Local secrets (kept on disk, never committed)
+gpg/github.org
+
+# Obsidian local/per-device state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+.obsidian/cache
+.obsidian/.cache
+.trash/
+
+# Tooling caches
+.ruff_cache/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
