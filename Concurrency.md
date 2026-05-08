@@ -12,7 +12,7 @@ date: 2021-12-28
 
 # Lock free(LF)
 
-![](_20211228_132424screenshot.png) at least some thread is doing progress on its work
+at least some thread is doing progress on its work
 
 # Wait free(WF)
 

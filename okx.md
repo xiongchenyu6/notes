@@ -37,4 +37,3 @@ end
 @enduml
 ```
 
-![](i/okx.png)

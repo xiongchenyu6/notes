@@ -102,5 +102,3 @@ defined trait Maybe
 defined object Empty
 defined class Just
 ```
-
-![](2022-02-10_15-50-45_screenshot.png)

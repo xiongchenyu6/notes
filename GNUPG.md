@@ -44,7 +44,7 @@ find ~/.gnupg -type d -exec chmod 700 {} \; # Set 700 for directories
 
 ## Encryption
 
-Use recipient public key to encrypt message so only recipient can decrypt and view it ![](clipboard-20250617T142342.png)
+Use recipient public key to encrypt message so only recipient can decrypt and view it
 
 ### decrypt
 
@@ -62,7 +62,7 @@ gpg --encrypt name_of_file
 
 ## Sign
 
-Use sender private key to encrypt message so everyone can verify the sender identity ![](clipboard-20250617T142323.png)
+Use sender private key to encrypt message so everyone can verify the sender identity
 
 ```bash
 gpg -b sample.txt
@@ -84,8 +84,6 @@ echo "ee7d52053138e716702261914a330059ed470b1106b75569b18326e9c1e04d27" | gpg -a
 ```
 
 ## Signature alongside encrypt
-
-![](clipboard-20250617T142237.png)
 
 ```bash
 gpg -s sample.txt # sign sample.txt.sig

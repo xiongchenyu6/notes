@@ -507,7 +507,3 @@ Stateless coroutine is cooperative while stackful is preemptive
   - memory<sub>orderacquire</sub>,
 - `dd_mb` data dependency memory barrier 第二个 load 操作依赖第一个 load 操作的执行结果（例如：先 load 地址，然后 load 该地址的内容）
   - memory<sub>orderconsume</sub>
-
-# Filesystem
-
-![](_20211226_131211screenshot.png)

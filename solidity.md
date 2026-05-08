@@ -1,8 +1,4 @@
----
-author: XiongChenYu
-date: "\[2022-12-07 Wed 21:34\]"
-title: solidity
----
+
 
 # solidity caveats
 

@@ -36,8 +36,6 @@ Zero-knowledge proofs are important because they allow for the creation of secur
 
 ## Hash Function
 
-![](Hash_Function/2023-03-10_14-50-21_screenshot.png)
-
 ### Hash Function
 
 - MD5, sha 1, 2
@@ -137,8 +135,6 @@ openssl rand -hex 32 (eth private key)
 ::: ai
 clock group loop math mod logarithm plusa ring
 :::
-
-![](file:///home/freeman.xiong/Dropbox/Org/org-ai-images/20230324_256x256_image_7.png)
 
 ### (before 1976) Symmetric Encryption(rot13)
 

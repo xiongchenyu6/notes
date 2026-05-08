@@ -24,8 +24,6 @@ partition Crontab/Airflow {
 end
 ```
 
-![](../i/current.png)
-
 ## Crontab
 
 - It is highly coupling with the host machine and it will cause problem if the build machine is gone
@@ -64,8 +62,6 @@ D -> M: Merge final script to master branch
 M -> M: gitlab scheduler will call run script in master periodically or submit script to airflow
 
 ```
-
-![](../i/current1.png)
 
 ```plantuml
 

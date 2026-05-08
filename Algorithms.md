@@ -2,7 +2,6 @@
 title: "Algorithms"
 date: 2021-11-20
 ---
-
 # Dynamic Programming
 
 1. Overlapping Subproblems a) Memoization (Top Down) The memoized program for a problem is similar to the recursive version with a small modification that looks into a lookup table before computing solutions. b) Tabulation (Bottom Up) The tabulated program for a given problem builds a table in bottom-up fashion and returns the last entry from the table.
